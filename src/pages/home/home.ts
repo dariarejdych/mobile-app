@@ -11,6 +11,4 @@ export class HomePage {
   constructor(public navCtrl: NavController) {
 
   }
-
 }
-console.log("mhmm")
