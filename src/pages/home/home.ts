@@ -13,3 +13,4 @@ export class HomePage {
   }
 
 }
+console.log("mhmm")
